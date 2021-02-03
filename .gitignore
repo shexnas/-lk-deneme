@@ -1,3 +1,6 @@
 veritabani.txt
-silinecekler/*
-!silinecekler/dosya3.txt
+
+belgeler/*
+
+!belgeler/dosya2.html
+
